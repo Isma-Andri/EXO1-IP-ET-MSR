@@ -21,3 +21,12 @@ Pour le compiler, voici la commande à utiliser :
 
 ```bash
 gcc -o ip main.c utils.c -lncurses
+```
+
+## Execution
+
+Après la compilation, taper cette commande pour l'executer:
+
+```bash
+./ip
+```
